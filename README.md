@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bootyBlaster9000
+- 👀 I’m interested in ... java
+- 🌱 I’m currently learning ... java
+- 💞️ I’m looking to collaborate on ... java projects
+- 📫 How to reach me ... dm me
