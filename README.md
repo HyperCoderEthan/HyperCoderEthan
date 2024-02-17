@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bootyBlaster9000
+- 👋 Hi, I’m @HyperCoderEthan
 - 👀 I’m interested in ... java
 - 🌱 I’m currently learning ... java, im a csci student
 - 💞️ I’m looking to collaborate on ... java projects
